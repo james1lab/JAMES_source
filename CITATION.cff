@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and this repository."
+title: "JAMES_source"
+authors:
+  - family-names: "Lee"
+    given-names: "Jae-Deok"
+year: 2026
+repository-code: "https://github.com/james1lab/JAMES_source"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Manuscript prepared for Journal of Advances in Modeling Earth Systems"
+  authors:
+    - family-names: "Lee"
+      given-names: "Jae-Deok"
+  journal: "Journal of Advances in Modeling Earth Systems"
+  year: 2026
