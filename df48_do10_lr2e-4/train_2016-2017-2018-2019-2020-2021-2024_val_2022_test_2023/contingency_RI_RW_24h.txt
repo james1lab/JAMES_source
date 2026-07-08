@@ -1,0 +1,9 @@
+[RI] horizon=24h, threshold=30.0 kt
+  TS filter: min_intensity_kt=34.0, ts_on=both
+  H=21  M=29  F=13  CN=276
+  POD=0.420 FAR=0.382 CSI=0.333 BIAS=0.680
+
+[RW] horizon=24h, threshold=30.0 kt
+  TS filter: min_intensity_kt=34.0, ts_on=both
+  H=26  M=16  F=17  CN=280
+  POD=0.619 FAR=0.395 CSI=0.441 BIAS=1.024
